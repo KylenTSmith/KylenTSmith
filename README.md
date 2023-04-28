@@ -2,8 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Azure / Cloud Projects</b>
+- <b>Azure / Cloud Project</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/KylenTSmith/Cloud-SOC)
+
+- <b>Vulnerability Management Project</b>
+  - [Nessus Scan for a single host](https://github.com/KylenTSmith/Vulnerability-management-Nessus-Scan)
 
 <h2>Certifications</h2>
 
