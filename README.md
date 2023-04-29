@@ -8,6 +8,9 @@
 - <b>Vulnerability Management Project</b>
   - [Nessus Scan for a single host](https://github.com/KylenTSmith/Vulnerability-management-Nessus-Scan)
 
+- <b>Incident Response Project</b>
+  - [Following NIST 800-61 For Brute Force Success](https://github.com/KylenTSmith/Incident-Response/blob/main/README.md)
+
 <h2>Certifications</h2>
 
 - [Security Plus+](https://www.credly.com/badges/a9afeb60-f436-495e-b8ac-8faf522591e4/public_url)
