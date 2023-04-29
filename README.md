@@ -9,7 +9,7 @@
   - [Nessus Scan for a single host](https://github.com/KylenTSmith/Vulnerability-management-Nessus-Scan)
 
 - <b>Incident Response Project</b>
-  - [Following NIST 800-61 For Brute Force Success](https://github.com/KylenTSmith/Incident-Response/blob/main/README.md)
+  - [Following NIST 800-61 For Brute Force Success](https://github.com/KylenTSmith/Incident-Response)
 
 <h2>Certifications</h2>
 
