@@ -24,6 +24,5 @@
 [<img align="left" alt="KylenSmith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="KylenSmith | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/Thatmankp/
-[linkedin]: https://linkedin.com/in/Kylensmith
+[linkedin]: https://www.linkedin.com/in/kylen-smith-0876bb222/
 
