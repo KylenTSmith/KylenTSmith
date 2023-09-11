@@ -17,7 +17,7 @@
  <h2>👨‍💻 Python Projects:</h2>
  
 - <b>Python Algorithm Project</b>
- - [Creating an algorithm usiing python](https://github.com/KylenTSmith/Creating-a-Python-Algorithim)
+  - [Creating an algorithm using python](https://github.com/KylenTSmith/Creating-a-Python-Algorithim)
 
 <h2>Certifications</h2>
 
