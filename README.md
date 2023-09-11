@@ -17,6 +17,7 @@
 <h2>Certifications</h2>
 
 - [Security Plus+](https://www.credly.com/badges/a9afeb60-f436-495e-b8ac-8faf522591e4/public_url)
+- [Google Cybersecurity Certificate](https://www.credly.com/badges/8910c38e-3831-4d4c-b554-48b76a3e4167)
 
 <h2> 🤳 Connect with me:</h2>
 
